@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 group-title="4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Love_Nature_logo_%282025%29.svg/500px-Love_Nature_logo_%282025%29.svg.png",Love Nature 4K CA
+https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
+#EXTINF:-1 group-title="4K UHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sn-4k-ca.png?raw=true",Sportsnet 4K CA
+http://hardcoremedia.xyz/rabdsbmz/3731346838/260804
+#EXTINF:-1 group-title="4K UHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sn1-4k-ca.png?raw=true",Sportsnet One 4K CA
+http://hardcoremedia.xyz/rabdsbmz/3731346838/260803
+#EXTINF:-1 group-title="4K UHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true",TSN 4K CA
+http://hardcoremedia.xyz/rabdsbmz/3731346838/260805
+#EXTINF:-1 group-title="4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/500px-New_Bloomberg_Logo.svg.png",Bloomberg TV+ 4K
+https://d2d98ykcmmhgd4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3jvz2ljlxc2im/b971dde4-82ac-449a-8612-5f12ec050ed4/0.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/500px-Fox_News_Channel_logo.svg.png",Fox News
+http://1tv41.icu:8080/Y06DNq/295733/1818
+#EXTINF:-1 group-title="News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ms-now-us.png?raw=true",MS NOW
+http://cord-cutter.net:8080/bn80NG/909467/9296
+#EXTINF:-1 group-title="News" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/14F5D3B6-FA2C-4E41-91AD-CD037209D874/3-1x1.png",NBC News NOW
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-news-24-7-us.png?raw=true",CBS News 24/7
+https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true",NEWSMAX
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png",Reuters
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91096_dark_360w_270h.png",NewsNation
+http://mytvstream.net:8080/live/30550113/30550113/161450.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png",C-SPAN
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/31396
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/500px-CNBC_2025.svg.png",CNBC
+http://41.205.93.154/CNBC/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true",Fox Business
+http://mytvstream.net:8080/live/30550113/30550113/17639.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/330px-BBC_News_2022_%28Alt%29.svg.png",BBC News International
+https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/5ab832c0-311a-4705-9535-5e54ad64b21e/5.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/france-24-int.png?raw=true",France 24 English FR
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/ts-eu-w1-n2/playlist/amg00106-france24-france24-samsunguk/cb553d1e7f6c678a93d43e61d4ef41a4da2427fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9515b7d121b9d81a20a99d94e5cd58d5d5173f7651b52f91016d6354b59f1dd3724c97db9700e16a82e6b553982f449de2e109add5f947e2d88b3dd7f39635a4ffc0c0bb4e207bcfae25a5bdb6ab3a54a1ac32640b28210d4804fb9d2c95a9f15866ba0469893ed8c82178b8e9167ab5fe3645c025c17f4817d808749b5e5897d2b957f2f34733f8db8a7dd710fb2756a72dfe291cf0f9612ca9a6b826f27ab01ea2cee51da31d963c0e04ab3e3bfd6463351cea240511489c1bdd0835f54bc62e8ecedd3670ef49c7f6373e85fff071f17a0c9d64ec4a97b97b230cbb5790d07c49e489a94bcf181dae151bd15faf8d0b71063674d1958fa37ce9b69c867dc68b8f11d20514836c1f03fdfa7e96e0f4c6eaba543e61371c1b30a28426c41a85528188555d7521169c8745f68e439fc894e14e34424a445f07fc557fa2fd2b73ee1af9bc40b3ea7d7c443850fa5d558949e8ace1cbf9cf917b2ac7d6535e5e36da3f62441630f8bf2c7e4650003edb8eef6c9503900362d836de1f7ca7f8187cc251c59941d76203c3d16950dd87dd013415b6ee010c7a90534a807226dc9947f651a3dc6f7e0d4b8818304946fc3c3f80e2a39726aa97c5075399de5db19b513634a5771cc4f684ab6021a65ef96c2ead0c04dc68e6ba73d2d453796be470f591c2323399a9669c557adc64eeed5990abe80e7766ab67c9b7377cf80e33dadd2d6bd0865f68d5816609bd655a0523dd71bd151e5f178cabf58035c710067f1ce6cbd389dda89cc3f953ca72c522cbc98da334d437c0085f00e405e43b055085b3498677cda25/126/1920x1080_6046040/index.m3u8
+#EXTINF:-1 group-title="Sports - North America" tvg-logo="https://a.espncdn.com/watchespn/images/web/network_logos/channel_logo_espn_2x.png",ESPN
+http://cord-cutter.net:8080/bn80NG/909467/99624
+#EXTINF:-1 group-title="Sports - North America" tvg-logo="https://a.espncdn.com/watchespn/images/web/network_logos/channel_logo_espnews_2x.png",ESPNEWS
+http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2312.ts
+#EXTINF:-1 group-title="Sports - North America" tvg-logo="https://a.espncdn.com/watchespn/images/web/network_logos/channel_logo_espnu_2x.png",ESPNU
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 group-title="Sports - North America" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-deportes-us.png?raw=true",ESPN Deportes
+http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/30063/index.m3u8
+#EXTINF:-1 group-title="Sports - North America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png",FS1
+http://cord-cutter.net:8080/bn80NG/909467/46792
+#EXTINF:-1 group-title="Sports - North America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/500px-FS2_logo_2015.svg.png",FS2
+http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/757.ts
+#EXTINF:-1 group-title="Sports - North America" tvg-logo="https://image.xumo.com/v1/channels/channel/99951253/168x168.png?type=color_onBlack",NBC Sports NOW
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/9ed59304-2f35-4c88-9b99-34153edef42b/4.m3u8
+#EXTINF:-1 group-title="Sports - North America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg/500px-BeIN_Sports_logo_%28horizontal_version%29.svg.png",beIN SPORTS
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31048/index.m3u8
+#EXTINF:-1 group-title="Sports - North America" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/330px-NBA_TV.svg.png",NBA TV
+http://212.102.60.231/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="Sports - North America" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/sports/leagues/nfl-us.png?raw=true",NFL Network
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Sports - North America" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/NFL_Network_Redzone.png/500px-NFL_Network_Redzone.png",NFL RedZone
+http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2369.ts
+#EXTINF:-1 group-title="Sports - North America" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/500px-MLBNetworkLogo.svg.png",MLB Network
+http://89.105.221.127/MLBNetwork/mpegts?token=test
+#EXTINF:-1 group-title="Sports - North America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/500px-NHL_Network_2012.svg.png",NHL Network
+https://nhl-firetv.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Sports - North America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/500px-Golf_Channel_logo_2025.svg.png",Golf Channel
+http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/5845.ts
+#EXTINF:-1 group-title="Sports - North America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/250px-Tennis_Channel_logo.svg.png",Tennis Channel
+http://cord-cutter.net:8080/bn80NG/909467/20184
+#EXTINF:-1 group-title="UK General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Channel_5_2025.svg/500px-Channel_5_2025.svg.png",Channel 5 UK
+http://kstv.us:8080/4VUyfZBQzk/95104974615/47759
+#EXTINF:-1 group-title="UK General" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/e-4-uk.png?raw=true",E4 UK
+http://kstv.us:8080/4VUyfZBQzk/95104974615/47772
+#EXTINF:-1 group-title="Canada General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/500px-CTV_logo_2018.svg.png",CTV Toronto CA
+http://1tv41.icu:8080/Y06DNq/295733/47296
+#EXTINF:-1 group-title="Canada General" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cbc-toronto-ca.png?raw=true",CBC Toronto CA
+http://1tv41.icu:8080/Y06DNq/295733/57306
+#EXTINF:-1 group-title="Music & Arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/500px-MTV_Live.svg.png",MTV Live
+http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/31498.m3u8
+#EXTINF:-1 group-title="Music & Arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/VH1_logo.svg/500px-VH1_logo.svg.png",VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:-1 group-title="Music & Arts" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/deluxe-music-de.png?raw=true",DELUXE MUSIC DE
+http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31307/index.m3u8
+#EXTINF:-1 group-title="Kids & Cartoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/500px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="Kids & Cartoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/500px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick Jr.
+http://1tv41.icu:8080/Y06DNq/295733/9807
+#EXTINF:-1 group-title="Kids & Cartoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/500px-2024_Disney_Channel_text_logo.svg.png",Disney Channel
+http://1tv41.icu:8080/Y06DNq/295733/75621
+#EXTINF:-1 group-title="Kids & Cartoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/500px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Kids & Cartoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/500px-Boomerang_2014_logo.svg.png",Boomerang
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1 group-title="Classic Loop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC3900002PV_20250107T022155SQUARE.png",Naruto
+https://d21vn5eki5qsdi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yscnwuwrfwcve/2c5dc73d-6915-4ae4-b4e7-bcecdcd78db3/0.m3u8
